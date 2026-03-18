@@ -1,3 +1,4 @@
+# 3 - Operações Matemáticas Simples 📐
 # Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 # Solicitando os números
 num1 = float(input("Digite o primeiro número: "))
